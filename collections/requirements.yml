@@ -1,4 +1,4 @@
 collections:
   # wwolkers/librenms_inventory
   - name:
-https://github.com/wwolkers/librenms_inventory/releases/download/1.0.0/wwolkers-librenms_inventory-1.0.0.tar.gz
+https://github.com/wwolkers/librenms_inventory/archive/refs/tags/0.1.2-c.tar.gz
