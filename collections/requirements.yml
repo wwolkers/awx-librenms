@@ -1,4 +1,3 @@
 collections:
   # wwolkers/librenms_inventory
-  - name:
-  https://github.com/wwolkers/librenms_inventory/archive/refs/tags/0.1.2-c.tar.gz
+  - name: https://github.com/wwolkers/librenms_inventory/archive/refs/tags/0.1.2-c.tar.gz
